@@ -1,0 +1,65 @@
+	C+asm PĘTLA 10MLN 100 TESTÓW 
+Sredni czas dodawania dla int to: 5.133200
+Sredni czas odejmowania dla int to: 5.292890
+Sredni czas mnozenia dla int to: 5.262070
+Sredni czas dzielenia dla int to: 12.914320
+
+Sredni czas dodawania dla float to: 5.800160
+Sredni czas odejmowania dla float to: 5.753580
+Sredni czas mnozenia dla float to: 5.738210
+Sredni czas dzielenia dla float to: 12.923940
+
+	C PĘTLA 10MLN 100 TESTÓW 
+Sredni czas dodawania dla int to: 5.227250
+Sredni czas odejmowania dla int to: 5.444710
+Sredni czas mnozenia dla int to: 5.175840
+Sredni czas dzielenia dla int to: 12.923020
+
+Sredni czas dodawania dla float to: 5.162370
+Sredni czas odejmowania dla float to: 6.190470
+Sredni czas mnozenia dla float to: 6.173490
+Sredni czas dzielenia dla float to: 12.952650
+
+	C+asm PĘTLA 20MLN 100 TESTÓW 
+Sredni czas dodawania dla int to: 10.2348450
+Sredni czas odejmowania dla int to: 10.138780
+Sredni czas mnozenia dla int to: 10.413270
+Sredni czas dzielenia dla int to: 25.825670
+
+Sredni czas dodawania dla float to: 11.477260
+Sredni czas odejmowania dla float to: 11.471860
+Sredni czas mnozenia dla float to: 11.472430
+Sredni czas dzielenia dla float to: 25.826170
+
+	C PĘTLA 20MLN 100 TESTÓW 
+Sredni czas dodawania dla int to: 10,404310
+Sredni czas odejmowania dla int to: 10,746310
+Sredni czas mnozenia dla int to: 10,336140
+Sredni czas dzielenia dla int to: 25.827500
+
+Sredni czas dodawania dla float to: 12.481950
+Sredni czas odejmowania dla float to: 15.459850
+Sredni czas mnozenia dla float to: 10,336140
+Sredni czas dzielenia dla float to: 25.827500
+
+	C+asm PĘTLA 50MLN 100 TESTÓW 
+Sredni czas dodawania dla int to: 25.587150
+Sredni czas odejmowania dla int to: 25.444560
+Sredni czas mnozenia dla int to: 26.448680
+Sredni czas dzielenia dla int to: 64.767320
+
+Sredni czas dodawania dla float to: 28.814870
+Sredni czas odejmowania dla float to: 29.587830
+Sredni czas mnozenia dla float to: 28.693180
+Sredni czas dzielenia dla float to: 64.570250
+
+	C PĘTLA 50MLN 100 TESTÓW 
+Sredni czas dodawania dla int to: 25.997300
+Sredni czas odejmowania dla int to: 26.538940
+Sredni czas mnozenia dla int to: 25.875760
+Sredni czas dzielenia dla int to: 65.465180
+
+Sredni czas dodawania dla float to: 31.217700
+Sredni czas odejmowania dla float to: 31.136130
+Sredni czas mnozenia dla float to: 31.141690
+Sredni czas dzielenia dla float to: 64.960120

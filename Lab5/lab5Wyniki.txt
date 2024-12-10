@@ -1,0 +1,32 @@
+﻿///////WSTAWKA Z XMM
+
+Sredni czas dodawania dwoch int to: 2.026280
+wyniki: 138339243 73225207 12518190 36241221
+Sredni czas odejmowania dwoch int to: 2.143380
+wyniki: 109009895 61867501 -5191318 35087729
+Sredni czas mnozenia dwoch int to: 2.143740
+wyniki: 1813555536 383526188 32432202 20542464
+Sredni czas dzielenia dwoch int to: 2.025640
+wyniki: 8433 11896 413 61917
+
+///////C 4 OPERACJE BEZ PĘTLI
+
+Sredni czas dodawania dwoch int to: 2.779830
+wyniki: 138339243 73225207 12518190 36241221 
+Sredni czas odejmowania dwoch int to: 2.762090
+wyniki: 109009895 61867501 -5191318 35087729
+Sredni czas mnozenia dwoch int to: 2.959020
+wyniki: 1813555536 383526188 32432202 20542464
+Sredni czas dzielenia dwoch int to: 12.910330
+wyniki: 8433 11896 413 61917
+
+///////C 4 OPERACJE W PĘTLI
+
+Sredni czas dodawania dwoch int to: 8.410610
+wyniki: 138339243 
+Sredni czas odejmowania dwoch int to: 8.004110
+wyniki: 109009895 
+Sredni czas mnozenia dwoch int to: 8.117730
+wyniki: 1813555536 
+Sredni czas dzielenia dwoch int to: 12.930900
+wyniki: 8433 
